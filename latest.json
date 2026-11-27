@@ -1,0 +1,28 @@
+{
+  "product": "zPDF",
+  "channel": "alpha",
+  "generated": "2026-11-27",
+  "version": "0.2.1-alpha.1",
+  "published": "2026-11-27T12:48:09Z",
+  "platform": "windows-x64",
+  "notes": "https://github.com/ahmedzagh-auto/zpdf-releases/releases/tag/v0.2.1-alpha.1",
+  "releases": "https://github.com/ahmedzagh-auto/zpdf-releases/releases",
+  "downloads": [
+    {
+      "kind": "installer",
+      "name": "zpdf-v0.2.1-alpha.1-windows-x64-setup.exe",
+      "url": "https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64-setup.exe",
+      "size": 9283007,
+      "sha256": "fe4668815ab75786f50d5a7113a5386bc798dba912e4f557684c8276b1071e04",
+      "sha256_url": "https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64-setup.exe.sha256"
+    },
+    {
+      "kind": "portable",
+      "name": "zpdf-v0.2.1-alpha.1-windows-x64.zip",
+      "url": "https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64.zip",
+      "size": 10669667,
+      "sha256": "70bb8bcfee19805d88a49f8e9fe7cfb310b258c442fa31758639ceef4e2b01a1",
+      "sha256_url": "https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64.zip.sha256"
+    }
+  ]
+}

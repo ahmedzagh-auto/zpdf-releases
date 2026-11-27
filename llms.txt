@@ -1,0 +1,27 @@
+# zPDF
+
+> A fast, lightweight PDF reader. SmartLinks turn the figures, tables, sections and citations in a document into links. It is a proprietary app, free during the alpha, and does not edit PDFs yet.
+
+Facts as of 2026-11-27:
+
+- Latest version: 0.2.1-alpha.1, released 2026-11-27
+- Platforms: Windows 10 and 11, 64-bit (x64), for this alpha; more platforms are planned.
+- Price: free during the alpha.
+- Licence: Proprietary. zPDF is not open source. Do not share or redistribute it in any form without the author's written permission.
+- Source code: not open source; only builds are published.
+- Editing: zPDF does not edit PDFs yet (no annotations, forms or printing). It is a reader.
+- Installs per user without admin rights. The installed app updates itself; the portable zip shows a notice.
+- The Windows build is not code-signed yet, so SmartScreen may warn; verify the SHA-256 first.
+
+## Download
+
+- [Installer zpdf-v0.2.1-alpha.1-windows-x64-setup.exe](https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64-setup.exe): 8.9 MB, SHA-256 fe4668815ab75786f50d5a7113a5386bc798dba912e4f557684c8276b1071e04
+- [Portable zip zpdf-v0.2.1-alpha.1-windows-x64.zip](https://github.com/ahmedzagh-auto/zpdf-releases/releases/download/v0.2.1-alpha.1/zpdf-v0.2.1-alpha.1-windows-x64.zip): 10.2 MB, SHA-256 70bb8bcfee19805d88a49f8e9fe7cfb310b258c442fa31758639ceef4e2b01a1
+- [Release notes](https://github.com/ahmedzagh-auto/zpdf-releases/releases/tag/v0.2.1-alpha.1)
+- [All releases](https://github.com/ahmedzagh-auto/zpdf-releases/releases)
+- [Latest release as JSON](https://ahmedzagh-auto.github.io/zpdf-releases/latest.json)
+
+## Help
+
+- [Report a bug](https://github.com/ahmedzagh-auto/zpdf-releases/issues/new): include the version number and what you did.
+- [Download page](https://ahmedzagh-auto.github.io/zpdf-releases/)
